@@ -1,0 +1,16 @@
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.csproj.AssemblyReference.cache
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.AssemblyInfoInputs.cache
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.AssemblyInfo.cs
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.csproj.CoreCompileInputs.cache
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\bin\Debug\net5.0\Scrabble-Score.exe
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\bin\Debug\net5.0\Scrabble-Score.deps.json
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\bin\Debug\net5.0\Scrabble-Score.runtimeconfig.json
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\bin\Debug\net5.0\Scrabble-Score.runtimeconfig.dev.json
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\bin\Debug\net5.0\Scrabble-Score.dll
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\bin\Debug\net5.0\ref\Scrabble-Score.dll
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\bin\Debug\net5.0\Scrabble-Score.pdb
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.dll
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\ref\Scrabble-Score.dll
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.pdb
+C:\Users\Rendo\desktop\C#\Scrabble-Score.solution\Scrabble-Score\obj\Debug\net5.0\Scrabble-Score.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Scrabble-Score/1.0.0": {
+        "runtime": {
+          "Scrabble-Score.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Scrabble-Score/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
