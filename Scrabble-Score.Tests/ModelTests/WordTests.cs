@@ -9,22 +9,19 @@ namespace ScrabbleScore.Tests
   public class WordTests
   {
     [TestMethod]
-    public void isWordSplitApart()
+    public void isLetterconvertingToValue()
     {
-      Word testWord = new Word("car");
-      List<char> SplitWord = new List<char>(0);
-      SplitWord.Add('c');
-      char test = testWord.Split(testWord.Input);
-      Assert.AreEqual(SplitWord[0], test);
+      Word testWord = new Word("C");
+      int test = testWord.Split(testWord.Input);
+      Assert.AreEqual(3, test);
     }
 
     [TestMethod]
-    public void isLetterAValue()
+    public void isLetterValuesBeingAddedTogether()
     {
-      Word testWord = new Word("car");
-      List<char> SplitWord = new List<char>(0);
-      SplitWord.Add('c');
-      Assert.AreEqual(SplitWord.LetterToValue(), 3);
+      Word testWord = new Word("CAR");
+      int test = testWord.Split(testWord.Input);
+      Assert.AreEqual(test, 5);
     }
   }
 }

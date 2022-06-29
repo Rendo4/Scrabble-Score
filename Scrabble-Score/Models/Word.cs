@@ -7,7 +7,8 @@ namespace ScrabbleScore
   public class Word
   {
     public string Input { get; set; }
-    public static List<char> WordList = new List<char>(0);
+    public static char[] letters; 
+    public int Score {get; set;}
     
 
     public Word(string input)
@@ -15,10 +16,47 @@ namespace ScrabbleScore
       Input = input;
     }
 
-    public char Split(string input)
+    public int Split(string input)
     {
-      WordList = input.ToCharArray().ToList();
-      return WordList[0];
+      Score = 0;
+      char[] letters = input.ToCharArray();
+      foreach (char letter in letters)
+      { 
+        if ("AEIOULNRST".Contains(letter)) 
+        {
+          Score += 1;
+        } 
+        else if ("DG".Contains(letter))
+        {
+          Score += 2;
+        }
+        else if ("BCMP".Contains(letter))
+        {
+          Score += 3;
+        }
+        else if ("FHVWY".Contains(letter))
+        {
+          Score += 4;
+        }
+        else if ('K' == letter)
+        {
+          Score += 5;
+        }
+        else if ("JX".Contains(letter))
+        {
+          Score += 8;
+        }
+        else 
+        {
+          Score += 10;
+        }
+      }
+      return Score;
+    }
+
+    public char[] GetLetters()
+    {
+      return letters;
     }
   }
 }
