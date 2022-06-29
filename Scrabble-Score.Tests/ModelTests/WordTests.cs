@@ -17,5 +17,14 @@ namespace ScrabbleScore.Tests
       char test = testWord.Split(testWord.Input);
       Assert.AreEqual(SplitWord[0], test);
     }
+
+    [TestMethod]
+    public void isLetterAValue()
+    {
+      Word testWord = new Word("car");
+      List<char> SplitWord = new List<char>(0);
+      SplitWord.Add('c');
+      Assert.AreEqual(SplitWord.LetterToValue(), 3);
+    }
   }
 }
